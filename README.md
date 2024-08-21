@@ -27,7 +27,7 @@ If you're familiar with developing in Ethereum's [Solidity](https://docs.solidit
 ## Getting Started
 
 For a quickstart guide and in depth tutorials, see the guided [documentation](https://project-serum.github.io/anchor/getting-started/introduction.html).
-To jump straight to examples, go [here](https://github.com/project-serum/anchor/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/anchor-lang) and the [typedoc](https://project-serum.github.io/anchor/ts/index.html).
+To jump straight to examples, go [here](https://github.com/project-serum/anchor/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/anchor-lang) and the [typedoc](https://typedoc.org/guides/installation/).
 
 ## Packages
 
